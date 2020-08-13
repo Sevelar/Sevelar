@@ -4,13 +4,13 @@
 Hello there! I am Sevelar, also known as SevDev or just Sev! I am a beginning developer specialising in web programming and a trainee. I still learn frontend programming languages and frameworks, such as JavaScript, React.js or Vue.js. I have a little knowledge of backend coding as well, as C++ was my very first programming language I have learnt.
 
 <div align="center">
-  <img src="./internals/img/react-padded-90.png" />
-  <img src="./internals/img/vue-padded-90.png" />
-  <img src="./internals/img/electron-padded-90.png" />
-  <img src="./internals/img/html5-padded-90.png" />
-  <img src="./internals/img/css-padded-90.png" />
-  <img src="./internals/img/javascript-padded-90.png" />
-  <img src="./internals/img/node-padded-90.png" />
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/react-padded-90.png" />
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/vue-padded-90.png" />
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/electron-padded-90.png" />
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/html5-padded-90.png" />
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/css-padded-90.png" />
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/javascript-padded-90.png" />
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/node-padded-90.png" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/gh-banner.png" alt="banner">
