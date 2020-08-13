@@ -2,8 +2,9 @@
 
 ## 🌎 Programming is about the passsion. 🌎
 Hello there! I am Sevelar, also known as SevDev or just Sev! I am a beginning developer specialising in web programming and a trainee. I still learn frontend programming languages and frameworks, such as JavaScript, React.js or Vue.js. I have a little knowledge of backend coding as well, as C++ was my very first programming language I have learnt.
+<hr />
 
-<div align="center">
+<div align="center" style="margin: 10px">
   <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/react-padded-90.png" />
   <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/vue-padded-90.png" />
   <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/electron-padded-90.png" />
@@ -12,6 +13,9 @@ Hello there! I am Sevelar, also known as SevDev or just Sev! I am a beginning de
   <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/javascript-padded-90.png" />
   <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/node-padded-90.png" />
 </div>
+
+<hr />
+
 
 <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/gh-banner.png" alt="banner">
 <!--
