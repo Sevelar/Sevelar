@@ -1,7 +1,7 @@
 
 
 ## 🌎 Programming is about the passsion. 🌎
-Hello there! I am Sevelar, also known as SevDev or just Sev! I am a beginning developer specialising in web programming and a trainee. I still learn frontend programming languages and frameworks, such as JavaScript, React.js or Vue.js. I have a little knowledge of backend coding as well, as C++ was my very first programming language I have learnt.
+Hello there! I am Sevelar, also known as SevDev or just Sev! I am a beginning web developer and a trainee in a IT company! I still learn frontend programming languages and frameworks, such as JavaScript, React.js or Vue.js. I have a little knowledge of backend coding as well, as C++ was my very first programming language I have learnt (Also computer architecture and things like Raspberry Pi or Arduino make me really interested, lol).
 <hr />
 
 <div align="center" style="margin: 10px">
