@@ -7,7 +7,7 @@ Hello there! I am Sevelar, also known as SevDev or just Sev! I am a beginning de
   <img src="./internals/img/react-padded-90.png" />
   <img src="./internals/img/vue-padded-90.png" />
   <img src="./internals/img/electron-padded-90.png" />
-  <img src="./internals/img/html5-router-padded-90.png" />
+  <img src="./internals/img/html5-padded-90.png" />
   <img src="./internals/img/css-padded-90.png" />
   <img src="./internals/img/javascript-padded-90.png" />
   <img src="./internals/img/node-padded-90.png" />
