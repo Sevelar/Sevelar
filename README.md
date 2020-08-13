@@ -5,13 +5,13 @@ Hello there! I am Sevelar, also known as SevDev or just Sev! I am a beginning we
 <hr />
 
 <div align="center" style="margin: 10px">
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/react-padded-90.png" />
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/vue-padded-90.png" />
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/electron-padded-90.png" />
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/html5-padded-90.png" />
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/css-padded-90.png" />
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/javascript-padded-90.png" />
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/node-padded-90.png" />
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/react-padded-90.png" alt="React"/>
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/vue-padded-90.png" alt="Vue"/>
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/electron-padded-90.png" alt="Electron"/>
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/html5-padded-90.png" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/css-padded-90.png" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/javascript-padded-90.png" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/node-padded-90.png" alt="Node"/>
 </div>
 
 <hr />
