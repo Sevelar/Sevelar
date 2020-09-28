@@ -17,7 +17,7 @@ Hello there! I am Sevelar, also known as SevDev or just Sev! I am a beginning we
 <hr />
 
 
-<img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/gh-banner.png" alt="banner">
+<!-- <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/gh-banner.png" alt="banner"> -->
 <!--
 **Sevelar/Sevelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
