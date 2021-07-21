@@ -13,7 +13,7 @@
 <!-- Badges: End -->
 
 <img src="https://media1.tenor.com/images/addab90f2f84780e95c391750a3cefee/tenor.gif?itemid=14590288" align="right" alt="">
-<br>
+
 <div align="center">
   Hi! My name is <b>Sebastian</b>, but online I'm mostly known as <b>Sevelar or just Sev</b>!
 I am an aspiring software developer. I learn frontend programming languages and frameworks, such as <b>JavaScript, Node.js and React.js</b>. Besides web dev, I also like to code games in Unity using C#. I have a little knowledge of backend coding as well. My first programming language was C++, as I also learned Java at a later date. 
