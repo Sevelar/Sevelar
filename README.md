@@ -37,10 +37,6 @@ I am an aspiring software developer. I learn frontend programming languages and 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://github.com/Sevelar/Sevelar/blob/master/internals/img/240px-C_Sharp_wordmark.svg.png" height="57px" alt="C#" />
-      <br>C#&nbsp;(Core)
-    </td>
-    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/javascript-padded-90.png" alt="JavaScript" />
       <br>JavaScript
     </td>
@@ -67,6 +63,10 @@ I am an aspiring software developer. I learn frontend programming languages and 
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/electron-padded-90.png" alt="Electron" />
       <br>Electron
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/Sevelar/Sevelar/blob/master/internals/img/240px-C_Sharp_wordmark.svg.png" height="57px" alt="C#" />
+      <br>C#&nbsp;(Core)
     </td>
     <td align="center" width="96">
         <img src="https://github.com/Sevelar/Sevelar/blob/master/internals/img/unity-logo.png" width="57px" alt="Unity" />
