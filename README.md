@@ -37,7 +37,7 @@ I am an aspiring software developer. I learn frontend programming languages and 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://simpleicons.org/icons/csharp.svg" height="57px" alt="C#" />
+      <img src="https://github.com/Sevelar/Sevelar/blob/master/internals/img/240px-C_Sharp_wordmark.svg.png" height="57px" alt="C#" />
       <br>C#&nbsp;(Core)
     </td>
     <td align="center" width="96">
@@ -53,7 +53,7 @@ I am an aspiring software developer. I learn frontend programming languages and 
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://simpleicons.org/icons/typescript.svg" height="57px" alt="TypeScript" />
+      <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/Typescript_logo_2020.svg.png" height="57px" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
@@ -69,7 +69,7 @@ I am an aspiring software developer. I learn frontend programming languages and 
       <br>Electron
     </td>
     <td align="center" width="96">
-        <img src="https://simpleicons.org/icons/unity.svg" width="57px" alt="Unity" />
+        <img src="https://github.com/Sevelar/Sevelar/blob/master/internals/img/unity-logo.png" width="57px" alt="Unity" />
       <br>Unity
     </td>
   </tr>
