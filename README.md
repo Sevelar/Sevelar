@@ -51,10 +51,6 @@ I'm an aspiring frontend software developer, although I often write backend code
       <br>React
     </td>
     <td align="center" width="96">
-      <img height="60" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/512px-Svelte_Logo.svg.png" alt="Svelte" />
-      <br>Svelte
-    </td>
-    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/electron-padded-90.png" alt="Electron" />
       <br>Electron
     </td>
