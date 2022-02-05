@@ -1,45 +1,31 @@
-## Hello there, I'm [Sev](https://github.com/Sevelar/)! 👋
+## Hello there, and welcome to my profile! 👋
 
 <!-- Badges: Start -->
 <div align="center">
   <a href="https://sevelar.github.io">
     <img height="25em" src="https://img.shields.io/badge/My%20Website-eb7a34?style=flat-square&logo=google-chrome&logoColor=white" alt="">
   </a>
-  <img height="25em" src="https://img.shields.io/badge/The%20Seviest%E3%80%8ASev%E3%80%8B%233118-5865F2?style=flat-square&logo=Discord&logoColor=white" alt="">
+  <img height="25em" src="https://img.shields.io/badge/The%20Seviest%233118-5865F2?style=flat-square&logo=Discord&logoColor=white" alt="">
   <a href="https://steamcommunity.com/id/totallynotsev">
     <img height="25em" src="https://img.shields.io/badge/%2Ftotallynotsev-146a9c?style=flat-square&logo=Steam&logoColor=white" alt="">
   </a>
 </div>
 <!-- Badges: End -->
 
-<img src="https://media1.tenor.com/images/addab90f2f84780e95c391750a3cefee/tenor.gif?itemid=14590288" align="right" alt="">
+<img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" align="right" alt="">
 
 <div align="center">
-  Hi! My name is <b>Sebastian</b>, but online I'm mostly known as <b>Sevelar or just Sev</b>!
-I am an aspiring software developer. I learn frontend programming languages and frameworks, such as <b>JavaScript, Node.js and React.js</b>. Besides web dev, I also like to code games in Unity using C#. I have a little knowledge of backend coding as well. My first programming language was C++, as I also learned Java at a later date. 
+  Hello there! I'm <b>Sevelar</b>, but people mostly call me just <b>Sev</b>.<br>
+I'm an aspiring frontend software developer, although I often write backend code as well. I'm learning UI frameworks, such as <b>React or Svelte</b>. Aside from web dev, I also like coding games, mostly in Unity with C#. I have a little knowledge of backend coding, as my first programming language was C++.
 </div>
+
 <br>
-
-<details>	
-  <summary><b>⚡ My Github Stats</b></summary>
-
-  <br />
-  <div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sevelar&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&custom_title=My%20Precious%20Github%20Stats%20%F0%9F%98%8E">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sevelar&layout=compact">
-  </div>
-</details>
 
 <h2 align="left">Things I usually work with</h2>
 
 > Tools, languages, and other things that I like to work with.
-
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/javascript-padded-90.png" alt="JavaScript" />
-      <br>JavaScript
-    </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/html5-padded-90.png" alt="HTML5" />
       <br>HTML5
@@ -47,6 +33,10 @@ I am an aspiring software developer. I learn frontend programming languages and 
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/css-padded-90.png" alt="CSS3" />
       <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/javascript-padded-90.png" alt="JavaScript" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/Typescript_logo_2020.svg.png" height="57px" alt="TypeScript" />
@@ -61,12 +51,16 @@ I am an aspiring software developer. I learn frontend programming languages and 
       <br>React
     </td>
     <td align="center" width="96">
+      <img height="60" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/512px-Svelte_Logo.svg.png" alt="Svelte" />
+      <br>Svelte
+    </td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/electron-padded-90.png" alt="Electron" />
       <br>Electron
     </td>
     <td align="center" width="96">
       <img src="https://github.com/Sevelar/Sevelar/blob/master/internals/img/240px-C_Sharp_wordmark.svg.png" height="57px" alt="C#" />
-      <br>C#&nbsp;(Core)
+      <br>C#&nbsp;
     </td>
     <td align="center" width="96">
         <img src="https://github.com/Sevelar/Sevelar/blob/master/internals/img/unity-logo.png" width="57px" alt="Unity" />
@@ -74,30 +68,12 @@ I am an aspiring software developer. I learn frontend programming languages and 
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/react-padded-90.png" alt="React"/>
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/vue-padded-90.png" alt="Vue"/>
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/electron-padded-90.png" alt="Electron"/>
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/html5-padded-90.png" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/css-padded-90.png" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/javascript-padded-90.png" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/node-padded-90.png" alt="Node"/>
-</div>
 <hr>
 
-<!-- <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/gh-banner.png" alt="banner"> -->
-<!--
-**Sevelar/Sevelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>	
+  <summary><b>⚡ My Github Stats</b></summary>
+  <div align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sevelar&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&custom_title=My%20Precious%20Github%20Stats%20%F0%9F%98%8E">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sevelar&layout=compact">
+  </div>
+</details>
