@@ -5,10 +5,6 @@
   <a href="https://sevelar.github.io">
     <img height="25em" src="https://img.shields.io/badge/My%20Website-eb7a34?style=flat-square&logo=google-chrome&logoColor=white" alt="">
   </a>
-  <img height="25em" src="https://img.shields.io/badge/The%20Seviest%233118-5865F2?style=flat-square&logo=Discord&logoColor=white" alt="">
-  <a href="https://steamcommunity.com/id/totallynotsev">
-    <img height="25em" src="https://img.shields.io/badge/%2Ftotallynotsev-146a9c?style=flat-square&logo=Steam&logoColor=white" alt="">
-  </a>
 </div>
 <!-- Badges: End -->
 
