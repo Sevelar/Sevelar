@@ -1,25 +1,8 @@
-## Hello there, and welcome to my profile! 👋
+## My profile
+Hello, my name is Sebastian, but I usually go by three nicknames: The Seviest, Sevelar or just Sev. \
+I'm a frontend developer, but looking forward to become a fullstack in the future.
 
-<!-- Badges: Start -->
-<div align="center">
-  <a href="https://sevelar.github.io">
-    <img height="25em" src="https://img.shields.io/badge/My%20Website-eb7a34?style=flat-square&logo=google-chrome&logoColor=white" alt="">
-  </a>
-</div>
-<!-- Badges: End -->
-
-<img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" align="right" alt="">
-
-<div align="center">
-  Hello there! I'm <b>Sevelar</b>, but people mostly call me just <b>Sev</b>.<br>
-I'm an aspiring frontend software developer, although I often write backend code as well. I'm learning UI frameworks, such as <b>React or Svelte</b>. Aside from web dev, I also like coding games, mostly in Unity with C#. I have a little knowledge of backend coding, as my first programming language was C++.
-</div>
-
-<br>
-
-<h2 align="left">Things I usually work with</h2>
-
-> Tools, languages, and other things that I like to work with.
+My tech stack is:
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -60,12 +43,16 @@ I'm an aspiring frontend software developer, although I often write backend code
     </td>
   </tr>
 </table>
-<hr>
 
-<details>	
-  <summary><b>⚡ My Github Stats</b></summary>
-  <div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sevelar&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&custom_title=My%20Precious%20Github%20Stats%20%F0%9F%98%8E">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sevelar&layout=compact">
-  </div>
-</details>
+<div align="center">
+  <a href="https://sevelar.github.io">
+    <img height="25em" src="https://img.shields.io/badge/My%20Website-eb7a34?style=flat-square&logo=google-chrome&logoColor=white" alt="">
+  </a>
+</div>
+ <div align="center">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sevelar&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&custom_title=My%20Precious%20Github%20Stats%20%F0%9F%98%8E">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sevelar&layout=compact">
+ </div>
+ <div align="center">
+<img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" align="center" alt="">
+</div>
